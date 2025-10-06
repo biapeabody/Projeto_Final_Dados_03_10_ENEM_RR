@@ -75,9 +75,11 @@ A alta taxa de "não informado" indica **lacunas na qualidade cadastral**.
 - **Denilza Lima**  
   [LinkedIn](https://www.linkedin.com/in/denilzalima)  
 
-- **Kryssia Mendonça**  
+- **Kryssia Mendonça**
+  [LinkedIn](https://www.linkedin.com/in/kryssiajm/)
 
-- **Renato Gomes**  
+- **Renato Gomes**
+  [LinkedIn](https://www.linkedin.com/in/renato-gomes-souza/)  
 
 - **Thais Falcão**
 
