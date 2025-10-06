@@ -101,31 +101,18 @@ A alta taxa de "não informado" indica **lacunas na qualidade cadastral**.
 
 ## 📂 Estrutura do Projeto
 
+O projeto foi organizado em pastas para facilitar a navegação e a rastreabilidade entre as etapas do pipeline de dados:
 
 ```text
-📂 enem-rr-2019-2024
-├── 📄 README.md
-├── 📊 dashboard_looker_studio_link.txt
-├── 📂 dados
-│   ├── raw
-│   ├── processed
-│   └── scripts
-├── 📂 notebooks
-│   └── exploracao_limpeza.ipynb
-└── 📂 apresentacao
-    └── Apresentacao_ENEM_RR_2019_2024.pdf
-```
-
----
-
-## 📫 Contato
-Para mais informações, entre em contato com a equipe pelos links do LinkedIn acima.
-
-**Fonte dos Dados:** [Qedu - Roraima](https://www.qedu.org.br/)  
-**Visualização Interativa:** Dashboard no Looker Studio  
-
----
-
-
-Visualização Interativa: Dashboard Looker Studio
-
+📂 Projeto Final - DADOS_3_10
+├── 📂 1_Bases_de_Dados
+│   ├── Dados_2019
+│   ├── Dados_2020
+│   ├── Dados_2021
+│   ├── Dados_2022
+│   ├── Dados_2023
+│   └── Dados_2024
+├── 📂 2_Colabs
+├── 📂 3_Bases_de_Dados_Limpas
+├── 📂 4_Identidade_Visual
+└── 📂 5_Apresentacao
