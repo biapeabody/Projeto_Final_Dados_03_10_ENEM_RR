@@ -130,7 +130,7 @@ Microdados ENEM (2018–2024)
         │        └─ Colab (staging)
         │
         ├─ Views de normalização (encoding, trim/lower, acentos)
-	      │ 	      └─ BigQuery
+		│ 	      └─ BigQuery
         │	  	        │
         │        	  	└─ vw_enem_rr_normalizado
         │
