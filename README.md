@@ -33,6 +33,8 @@ A análise visa apoiar a tomada de decisão baseada em dados por parte de **secr
 
 ### **Total de Inscritos (2019–2024)**
 
+Looker Studio : https://lookerstudio.google.com/reporting/98a2bc88-a6c9-4178-9708-eabf6d3359dd
+
 | Ano  | Inscritos | Matrículas no EM (Qedu) | Cobertura ENEM |
 |------|------------|--------------------------|----------------|
 | 2019 | 13.000     | 20.489                  | 63,4%          |
