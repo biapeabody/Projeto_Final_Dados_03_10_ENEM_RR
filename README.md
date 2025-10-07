@@ -116,3 +116,30 @@ O projeto foi organizado em pastas para facilitar a navegação e a rastreabilid
 ├── 📂 3_Bases_de_Dados_Limpas
 ├── 📂 4_Identidade_Visual
 └── 📂 5_Apresentacao
+
+```
+
+
+## **Arquitetura (Alto Nível)**
+
+```text
+
+Microdados ENEM (2018–2024)
+        │
+        ├─ Upload (CSV/Sheets)
+        │        └─ Colab (staging)
+        │
+        ├─ Views de normalização (encoding, trim/lower, acentos)
+	      │ 	      └─ BigQuery
+        │	  	        │
+        │        	  	└─ vw_enem_rr_normalizado
+        │
+        └─ Tabela analítica unificada
+                 └─ ENEM_2019_2024
+                         │
+                         └─ Conector Looker Studio
+                                  └─ Campos calculados + Controles
+                                          └─ Relatório interativo
+````
+
+
